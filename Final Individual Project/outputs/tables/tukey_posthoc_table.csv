@@ -1,0 +1,4 @@
+group1,group2,meandiff,p-adj,lower,upper,reject
+High (5-7 days),Low (0-2 days),0.664,0.0,0.431,0.8971,True
+High (5-7 days),Moderate (3-4 days),0.451,0.0003,0.1792,0.7227,True
+Low (0-2 days),Moderate (3-4 days),-0.2131,0.1745,-0.4928,0.0667,False
