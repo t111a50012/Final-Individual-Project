@@ -66,7 +66,6 @@
   * **Post-hoc Test:** Tukey's Honestly Significant Difference (Tukey's HSD) for pairwise multiple comparisons to locate specific group differences while controlling the family-wise Type I error rate at $\alpha=0.05$.
 
 
-    
 * * **整體檢定:** 單因子變異數分析（One-way ANOVA），用以檢定整體虛無假設，即所有運動組別的平均 BMI 是否相等。
   * **事後檢定:** Tukey's HSD 事後多重比較檢定，在嚴格控制家庭期型一錯誤率（p < 0.05）的前提下進行兩兩成對對比，精準定位組別間的具體差異。
 
@@ -94,7 +93,7 @@
 
 * **Final Results:** The empirical data reveals a critical threshold effect: the `High` activity group (5–7 days) exhibits a significantly lower average BMI than both the `Low` activity group ($\text{meandiff} = 0.664$, $p < 0.001$) and the `Moderate` activity group ($\text{meandiff} = 0.451$, $p < 0.001$). Crucially, there is no statistically significant difference in average BMI between the `Moderate` and `Low` activity groups ($p = 0.1745$). This demonstrates that regular exercise is effective for weight regulation, but **"frequency" is the deciding factor**.
   
-  * **Core Recommendations:** Exercising only 3–4 days a week yields no statistically distinct benefit over being sedentary in shifting collective BMI. Therefore, public health and school physical education policies must move away from generic "exercise more" slogans and actively implement targeted interventions that encourage adolescents to increase their physical activity to a high frequency of **5–7 days a week** to unlock substantial health and weight-regulation benefits.
+* **Core Recommendations:** Exercising only 3–4 days a week yields no statistically distinct benefit over being sedentary in shifting collective BMI. Therefore, public health and school physical education policies must move away from generic "exercise more" slogans and actively implement targeted interventions that encourage adolescents to increase their physical activity to a high frequency of **5–7 days a week** to unlock substantial health and weight-regulation benefits.
     
 * **最終結果:** 大數據實證顯示出關鍵的「門檻效應」：`高運動量組 (5-7天)` 的平均 BMI 顯著低於 `低運動量組`（均值差 $= 0.664$，$p < 0.001$）與 `中運動量組`（均值差 $= 0.451$，p < 0.001）。至關至要的是，`中運動量組 (3-4天)` 與 `低運動量組 (0-2天)` 之間的平均 BMI 在統計上**完全沒有顯著差異**（p = 0.1745）。這證實了規律運動雖能調節體態，但「運動頻率」才是核心決定因素。
   
