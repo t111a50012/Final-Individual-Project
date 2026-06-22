@@ -45,6 +45,7 @@
     1. `Low (0–2 days)`: Sedentary or low-activity lifestyle (0 to 2 days of exercise per week).
     2. `Moderate (3–4 days)`: Baseline active lifestyle (3 to 4 days of exercise per week).
     3. `High (5–7 days)`: Highly active lifestyle meeting advanced health guidelines (5 to 7 days of exercise per week).
+       
   * 順序型類別變數，由原始連續型欄位 `PhysicalActivity50rMoreDays`（過去7天內，運動累積達60分鐘以上的天數）重新編碼而成，分為三個明確的實證群組：
     1. `Low (0-2天)`: 久坐或低活動量生活型態（每週運動 0 至 2 天）。
     2. `Moderate (3-4天)`: 具備基礎活動量生活型態（每週運動 3 至 4 天）。
@@ -60,9 +61,9 @@
 ---
 
 ### 📌 Statistical Method / 統計方法
-* **English:** * **Omnibus Test:** One-way Analysis of Variance (One-way ANOVA) to test the overall null hypothesis ($H_0: \mu_{\text{Low}} = \mu_{\text{Moderate}} = \mu_{\text{High}}$) that all group means are equal.
+* **Omnibus Test:** One-way Analysis of Variance (One-way ANOVA) to test the overall null hypothesis ($H_0: \mu_{\text{Low}} = \mu_{\text{Moderate}} = \mu_{\text{High}}$) that all group means are equal.
   * **Post-hoc Test:** Tukey's Honestly Significant Difference (Tukey's HSD) for pairwise multiple comparisons to locate specific group differences while controlling the family-wise Type I error rate at $\alpha=0.05$.
-* **中文:** * **整體檢定:** 單因子變異數分析（One-way ANOVA），用以檢定整體虛無假設（$H_0: \mu_{\text{低}} = \mu_{\text{中}} = \mu_{\text{高}}$），即所有運動組別的平均 BMI 是否相等。
+* * **整體檢定:** 單因子變異數分析（One-way ANOVA），用以檢定整體虛無假設（$H_0: \mu_{\text{低}} = \mu_{\text{中}} = \mu_{\text{高}}$），即所有運動組別的平均 BMI 是否相等。
   * **事後檢定:** Tukey's HSD 事後多重比較檢定，在嚴格控制家庭期型一錯誤率（$\alpha=0.05$）的前提下進行兩兩成對對比，精準定位組別間的具體差異。
 
 ---
