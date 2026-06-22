@@ -13,7 +13,7 @@
 ---
 
 ## 2. Core Links / 專案核心連結
-* **Project Repository (GitHub 儲存庫):** https://github.com/.....
+* **Project Repository (GitHub 儲存庫):** https://github.com/t111a50012/Stat2-Final-Individual-Project 
 * **Presentation Video (YouTube):** https://youtu.be/bmpF1FyXiS4 
 
 ---
