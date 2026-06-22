@@ -1,10 +1,8 @@
-# Final-Individual-Project
+# Final Individual Project / 期末個人專題
 
 
 ## Analysis of the Difference between Physical Activity Frequency and BMI in Adolescents   
 ## 青少年運動頻率與 BMI 之差異分析
-
-# Final Individual Project / 期末個人專題
 
 ## 1. Student Information / 學生資訊
 * **Name (姓名):** 楊書雅 (Shu-Ya Yang)
