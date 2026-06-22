@@ -78,11 +78,11 @@
 * *Decision: Since the p-value is far less than 0.05, we successfully reject the null hypothesis ($H_0$). / 統計決策：因 $p$ 值遠小於 0.05，成功拒絕虛無假設。*
 
 #### 2. Pairwise Comparisons: Tukey's HSD Table / 兩兩比較：事後檢定表
-| Comparison Pair (兩兩對比組別) | Mean Diff (均值差) | Adjusted $p$-value (調整後 $p$ 值) | 95% CI (信心區間) | Reject $H_0$ (具顯著差異) |
+| Comparison Pair (兩兩對比組別) | Mean Diff (均值差) | Adjusted $p$-value (調整後 $p$ 值) | 95% CI (信心區間)  | Reject $H_0$ (具顯著差異) |
 | :--- | :---: | :---: | :---: | :---: |
-| **High** vs **Low** | 0.664 | 0.000 ( < 0.001 ) | [0.431, 0.897] | **True (是)** |
-| **High** vs **Moderate** | 0.451 | 0.0003 | [0.179, 0.723 ] | **True (是)** |
-| **Low** vs **Moderate** | -0.213 | 0.1745 | [0.493, -0.067] | **False (否)** |
+| **High** vs **Low** | 0.664 | 0.000 ( < 0.001 ) | [ 0.431, 0.897 ] | **True (是)** |
+| **High** vs **Moderate** | 0.451 | 0.0003 | [ 0.179, 0.723 ] | **True (是)** |
+| **Low** vs **Moderate** | -0.213 | 0.1745 | [ -0.493, 0.067 ] | **False (否)** |
 
 ---
 
