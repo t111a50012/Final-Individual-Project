@@ -22,8 +22,8 @@
 
 | Language / 語言 | Description / 概述內容 |
 | :--- | :--- |
-| **English** | This study utilizes the U.S. CDC 2007 Youth Risk Behavior Survey (`YRBS_2007.csv`) dataset to investigate whether adolescents' physical activity frequency significantly affects their Body Mass Index (BMI). The project strictly follows a standard data science workflow: **Research Question → Data Preparation → Statistical Method → Result → Interpretation**, with all code warnings and random-seed bugs fully resolved. |
-| **中文對照** | 本研究使用美國 CDC 2007 年青少年危險行為調查（`YRBS_2007.csv`）真實資料集，探討青少年的運動頻率是否會顯著影響其身體質量指數（BMI）。本專案嚴格遵循標準資料科學工作流程：**研究問題 → 資料準備 → 統計方法 → 結果呈現 → 實質詮釋**，並已完全修正所有套件過時警告與隨機數錯誤。 |
+| **English** | This study utilizes the U.S. CDC 2007 Youth Risk Behavior Survey (`YRBS_2007.csv`) dataset to investigate whether adolescents' physical activity frequency significantly affects their Body Mass Index (BMI). The project strictly follows a standard data science workflow: **Research Question → Data Preparation → Statistical Method → Result → Interpretation**. |
+| **中文對照** | 本研究使用美國 CDC 2007 年青少年危險行為調查（`YRBS_2007.csv`）真實資料集，探討青少年的運動頻率是否會顯著影響其身體質量指數（BMI）。本專案嚴格遵循標準資料科學工作流程：**研究問題 → 資料準備 → 統計方法 → 結果呈現 → 實質詮釋**。 |
 
 ### 核心結論 / Core Conclusion
 * **English:** One-way ANOVA and Tukey's HSD post-hoc tests reveal that groups with higher weekly exercise days have a significantly lower average BMI than low-activity groups ($p < 0.05$). However, the post-hoc test further confirms that "frequency" is the key: exercising 5–7 days a week brings the most significant health benefits, whereas exercising 3–4 days shows no statistical difference compared to 0–2 days.
